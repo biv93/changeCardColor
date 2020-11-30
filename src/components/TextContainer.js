@@ -35,7 +35,7 @@ export class TextContainer extends Component {
     }
     handleFont = (x) => {
         console.log(x)
-        if(this.state.refState == 'p' && this.state.refState !== null){
+        if(this.state.refState === 'p' && this.state.refState !== null){
             this.setState({
                 fontSizeP:x,
             })
