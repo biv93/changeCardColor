@@ -1,0 +1,33 @@
+[
+    {
+    "id":0,
+    "contrast":[
+        "#ff9a00",
+        "#ff5700",
+        "#032535"
+    ],
+    "nomeFont":"Helvetica",
+    "descr":"Lorem ipsum set etiam, si nihil morte cetium vita transcurrit",
+    "fontSize":22
+    },
+    {
+    "id":1,
+    "contrast":[
+        "#00ADB5",
+        "#45969b",
+        "#ff0340"
+    ],
+    "nomeFont":"Baskerville",
+    "descr":"Lorem ipsum set etiam, si nihil morte cetium vita transcurrit"
+    },
+    {
+    "id":2,
+    "contrast":[
+        "#101325",
+        "#2F35C5",
+        "#C6B8ED"
+    ],
+    "nomeFont":"Impact",
+    "descr":"Lorem ipsum set etiam, si nihil morte cetium vita transcurrit"
+    }
+]
