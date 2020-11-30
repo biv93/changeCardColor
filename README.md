@@ -1,7 +1,11 @@
 # React Change Card Colors
 pratical example to handle events and use ref
 
-visit: https://determined-kalam-3171c4.netlify.app/
+visit website: https://determined-kalam-3171c4.netlify.app
+
+<a href="https://determined-kalam-3171c4.netlify.app/">
+<img src="https://github.com/biv93/changeCardColor/blob/master/src/images/layout.png"/>
+</a>
 
 # Getting Started with Create React App
 
